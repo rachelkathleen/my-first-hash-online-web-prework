@@ -5,7 +5,6 @@ def my_hash
   my_hash["current_city"] = "Dallas"
   end
   my_hash
-  end
 end
 
 
