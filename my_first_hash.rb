@@ -1,8 +1,5 @@
 def my_hash
-  my_hash = {}
-  my_hash["name"] = "Rachel"
-  my_hash["age"] = "33"
-  my_hash["current_city"] = "Dallas"
+  my_hash = {name = "Rachel", age = "33", current_city = "Dallas"}
 end
 
 
